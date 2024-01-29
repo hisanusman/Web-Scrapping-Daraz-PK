@@ -8,4 +8,4 @@ In addition to reviews, the code also extracts detailed product information such
 <br><br>
 Finally, the code performs data manipulation on the extracted information. It iterates over the products on the search results page, extracting details such as whether the product is available on Daraz Mall or from a private seller, average price, number of listings, average unit selling, seller ratings, and number of followers. After gathering the information for a product, it navigates back to the search results page and undoes the selection of the current product before moving on to the next one.
 <br><br>
-Overall, this project demonstrates a comprehensive use of Python for web scraping, sentiment analysis, and data manipulation, providing valuable insights into product information and customer reviews on Daraz. 😊
+Overall, this project demonstrates a comprehensive use of Python for web scraping, sentiment analysis, and data manipulation, providing valuable insights into product information and customer reviews on Daraz.
